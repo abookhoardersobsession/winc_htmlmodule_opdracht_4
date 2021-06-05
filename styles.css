@@ -1,0 +1,25 @@
+body{
+    background-color: #CCCCFF;
+    color: darkslateblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    line-height: 1.5em;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-style: italic;
+}
+h1{
+    font-size: 30px;
+}
+h3{
+    font-size: 18px;
+}
+
+.opsomming{
+    border: 1.5px dashed #9900ff59 
+}
+
+ul{
+    font-size: smaller;
+}
